@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, React and Laravel
 - 👯 I’m looking to forward to be a full-stack dev
 - 🥅 2021 Goals: Contribute to a project and get a job as a developer
-- ⚡ Hobby: I play games a lot and love it so much 
+- ⚡ Hobby: I play games a lot and love it so much
 
 ### Connect with me:
 
@@ -27,6 +27,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+---
+
+<img align="left" alt>
+[![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas)](https://github.com/ismi-abbas/github-readme-stats)
 
 [twitter]: https://twitter.com/ismi_abbas
 [youtube]: https://youtube.com/codeSTACKr
