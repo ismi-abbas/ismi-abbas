@@ -29,8 +29,7 @@
 
 ---
 
-<img align="left" alt>
-[![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas)](https://github.com/ismi-abbas/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/ismi_abbas
 [youtube]: https://youtube.com/codeSTACKr
