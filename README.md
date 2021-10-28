@@ -31,7 +31,7 @@
 
 ---
 
-[![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas)](https://github.com/anuraghazra/github-readme-stats)
+[![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas)](https://github.com/ismi-abbas/github-readme-stats)
 
 [twitter]: https://twitter.com/ismi_abbas
 [youtube]: https://youtube.com/codeSTACKr
