@@ -61,6 +61,10 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 [twitter]: https://twitter.com/ismi_abbas
 [youtube]: https://youtube.com/codeSTACKr
