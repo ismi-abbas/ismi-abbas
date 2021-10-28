@@ -59,7 +59,7 @@
 ![Abbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ismiabbas)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
 
 
 [twitter]: https://twitter.com/ismi_abbas
