@@ -54,6 +54,12 @@
 
 ---
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
 [![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&count_private=true&theme=monokai)](https://github.com/ismi-abbas/github-readme-stats)
 ---
 ![Abbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ismiabbas)
@@ -61,9 +67,7 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
 
 [twitter]: https://twitter.com/ismi_abbas
