@@ -52,6 +52,7 @@
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 <br/>
 
+[![wakatime](https://wakatime.com/badge/user/e343c780-2554-4143-9341-901258583fa6.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
 ---
 
 <!--START_SECTION:waka-->
