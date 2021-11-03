@@ -54,18 +54,9 @@
 
 
 
-<!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/e343c780-2554-4143-9341-901258583fa6.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
----
-
-[![wakatime](https://wakatime.com/share/@ismiabbas/2dbff85b-1640-47c2-8a20-05f4e74541c8.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
-<!--END_SECTION:waka-->
-
----
-
 [![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&count_private=true&theme=monokai)](https://github.com/ismi-abbas/github-readme-stats)
 ---
-![Abbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ismiabbas)
+[![Abbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ismiabbas)]
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
