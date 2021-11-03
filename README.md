@@ -52,13 +52,13 @@
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 <br/>
 
+
+
+<!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e343c780-2554-4143-9341-901258583fa6.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
 ---
 
-
-<figure><embed src="https://wakatime.com/share/@ismiabbas/2dbff85b-1640-47c2-8a20-05f4e74541c8.svg"></embed></figure>
-<!--START_SECTION:waka-->
-
+[![wakatime](https://wakatime.com/share/@ismiabbas/2dbff85b-1640-47c2-8a20-05f4e74541c8.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
 <!--END_SECTION:waka-->
 
 ---
