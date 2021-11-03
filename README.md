@@ -52,7 +52,9 @@
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 <br/>
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 [![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&count_private=true&theme=monokai)](https://github.com/ismi-abbas/github-readme-stats)
 [![Abbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ismiabbas&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
