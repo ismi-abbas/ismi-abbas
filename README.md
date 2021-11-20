@@ -56,7 +56,7 @@
 
 <!--END_SECTION:waka-->
 
-[![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&count_private=false&theme=monokai)](https://github.com/ismi-abbas/github-readme-stats)
+<!-- [![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&count_private=false&theme=monokai)](https://github.com/ismi-abbas/github-readme-stats) -->
 [![Abbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ismiabbas&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
