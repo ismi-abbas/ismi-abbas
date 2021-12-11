@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+## ⚙️ Languages and Tools:
 
 <a name="learning-now"></a>
 
@@ -29,35 +29,10 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/ReactJs-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
-
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-&nbsp;
-
-## 👾  What I am interested in learning at some point
-
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
-<br/>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-<!-- [![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&count_private=false&theme=monokai)](https://github.com/ismi-abbas/github-readme-stats) -->
-[![Abbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ismiabbas&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
 
