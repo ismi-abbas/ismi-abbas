@@ -2,9 +2,8 @@
 
 ## I'm a Student, a Freelancer
 
-- 🌱 I’m currently learning JavaScript, React
-- 👯 I’m looking to forward to be a full-stack dev
-- 🥅 2021 Goals: Contribute to a project and get a job as a developer
+- 🌱 Finally become a dev!
+- 🥅 2022 Goals: Learn Java, and C++!
 - ⚡ Hobby: I play games a lot and love it so much
 
 ### Connect with me:
