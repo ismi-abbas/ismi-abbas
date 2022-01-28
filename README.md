@@ -3,7 +3,7 @@
 ## I'm a Student, a Freelancer
 
 - 🌱 Finally become a dev!
-- 🥅 2022 Goals: Learn Java, and C++!
+- 🥅 2022 Goals: Learn Java, and C++! Become a good fullstack developer.
 - ⚡ Hobby: I play games a lot and love it so much
 
 ### Connect with me:
