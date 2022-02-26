@@ -6,11 +6,8 @@
 - 🥅 2022 Goals: Learn Java, and C++! Become a good fullstack developer.
 - ⚡ Hobby: I play games a lot and love it so much
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://app.daily.dev/ismiabbas"><img src="https://api.daily.dev/devcards/e8f169ede1af47829ca650ecf5f3fe8e.png?r=bmp" width="400" alt="Abbas's Dev Card"/></a>
 
 <br />
 
