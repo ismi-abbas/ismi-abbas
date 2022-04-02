@@ -6,11 +6,6 @@
 - 🥅 2022 Goals: Learn Java, and C++! Become a good fullstack developer.
 - ⚡ Hobby: I play games a lot and love it so much
 
-
-<a href="https://app.daily.dev/ismiabbas"><img src="https://api.daily.dev/devcards/e8f169ede1af47829ca650ecf5f3fe8e.png?r=bmp" width="400" alt="Abbas's Dev Card"/></a>
-
-<br />
-
 ## ⚙️ Languages and Tools:
 
 <a name="learning-now"></a>
