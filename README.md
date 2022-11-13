@@ -1,12 +1,13 @@
 ### Hi there, I'm Abbas - aka [ismi-abbas][twitter] 👋
 
-## I'm a Student, a Freelancer
+## I'm a ~~Student, a Freelancer~~ maybe a hardworking man? Maybe....
 
-- 🌱 Finally become a dev!
-- 🥅 2022 Goals: Learn Java, and C++! Become a good fullstack developer.
+- 🌱 ~~Finally become a dev!~~ Am I happy like this now? Seems like a stressfull day everyweek, but I take that as a challenge.
+- 🥅 ~~2022~~ 2023 Goals: Learn ~~Java, and C++!~~ Rust and GO ftw. Become a fullstack developer(this is my ninjaway🥷).
 - ⚡ Hobby: I play games a lot and love it so much
 
 ## ⚙️ Languages and Tools:
+Mostly outdated.....bruh, I have lack of time now. All is work/office things.
 
 <a name="learning-now"></a>
 
@@ -27,6 +28,7 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
 
+Yo don't trust this, I'm not even using it anymore. <br>
 [![wakatime](https://wakatime.com/badge/user/e343c780-2554-4143-9341-901258583fa6.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
 
 
