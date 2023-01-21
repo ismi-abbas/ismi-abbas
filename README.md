@@ -26,13 +26,9 @@ Mostly outdated.....bruh, I have lack of time now. All is work/office things.
 <a name="learning-next"></a>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ismi-abbas)]
-
-Yo don't trust this, I'm not even using it anymore. <br>
-[![wakatime](https://wakatime.com/badge/user/e343c780-2554-4143-9341-901258583fa6.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
-
-
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas)](https://github.com/ismi-abbas?tab=repositories)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas&langs_count=8)](https://github.com/ismi-abbas?tab=repositories)
 
 [twitter]: https://twitter.com/ismi_abbas
 [instagram]: https://www.instagram.com/ismiabbas
