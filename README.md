@@ -26,7 +26,7 @@ Mostly outdated.....bruh, I have lack of time now. All is work/office things.
 <a name="learning-next"></a>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ismi-abbas)](https://github.com/anuraghazra/github-readme-stats)
 
 Yo don't trust this, I'm not even using it anymore. <br>
 [![wakatime](https://wakatime.com/badge/user/e343c780-2554-4143-9341-901258583fa6.svg)](https://wakatime.com/@e343c780-2554-4143-9341-901258583fa6)
