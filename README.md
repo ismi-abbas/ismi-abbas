@@ -1,33 +1,12 @@
 ### Hi there, I'm Abbas - aka [ismi-abbas][twitter] 👋
 
-## I'm a ~~Student, a Freelancer~~ maybe a hardworking man? Maybe....
+## I'm a software developer at finance industry
 
-- 🌱 ~~Finally become a dev!~~ Am I happy like this now? Seems like a stressfull day everyweek, but I take that as a challenge.
-- 🥅 ~~2022~~ 2023 Goals: Learn ~~Java, and C++!~~ Rust and GO ftw. Become a fullstack developer(this is my ninjaway🥷).
-- ⚡ Hobby: I play games a lot and love it so much
+- 🌱 Working mostly on backend stuff, that you wouldn't see the progress here.
+- 🥅 I know, and work only with javascript + typescript, but Rust and GO is ongoing learning progress.
 
-## ⚙️ Languages and Tools:
-Mostly outdated.....bruh, I have lack of time now. All is work/office things.
-
-<a name="learning-now"></a>
-
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ReactJs-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />][tech_tools_anchor]
-
-<a name="learning-next"></a>
-
----
 [![Stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas)](https://github.com/ismi-abbas?tab=repositories)
----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas&langs_count=8)](https://github.com/ismi-abbas?tab=repositories)
 
 [twitter]: https://twitter.com/ismi_abbas
