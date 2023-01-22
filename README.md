@@ -1,6 +1,6 @@
 ### Hi there, I'm Abbas - aka [ismi-abbas][twitter] 👋
 
-## I'm a software developer at finance industry
+## I'm a software developer
 
 - 🌱 Working mostly on backend stuff, that you wouldn't see the progress here.
 - 🥅 I know, and work only with javascript + typescript, but Rust and GO is ongoing learning progress.
