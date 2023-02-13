@@ -23,10 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ismi-abbas?tab=repositories)
 
 [twitter]: https://twitter.com/ismi_abbas
-[instagram]: https://www.instagram.com/ismiabbas
-[linkedin]: https://www.linkedin.com/in/ismi-abbas/
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+
+## Leetcode!
+![Leetcode Stats](https://leetcard.jacoblin.cool/ismi-abbas?ext=activity&theme=unicorn)
 
 
