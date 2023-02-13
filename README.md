@@ -25,6 +25,6 @@
 [twitter]: https://twitter.com/ismi_abbas
 
 ## Leetcode!
-![Leetcode Stats](https://leetcard.jacoblin.cool/ismi-abbas?ext=activity&theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ismi-abbas?ext=activity&theme=nord)
 
 
