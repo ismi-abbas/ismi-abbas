@@ -15,8 +15,7 @@
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
 </div>
-
-<br/>
+ -->
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/ismi-abbas?tab=repositories)
 
@@ -25,7 +24,6 @@
 
 ## Leetcode!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ismi-abbas?theme=nord)
- -->
  
 [twitter]: https://twitter.com/ismi_abbas
 
