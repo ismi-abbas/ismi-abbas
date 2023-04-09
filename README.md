@@ -22,8 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ismi-abbas?tab=repositories)
 
 
-## Leetcode!
+<!-- ## Leetcode!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ismi-abbas?theme=nord)
  
-[twitter]: https://twitter.com/ismi_abbas
+[twitter]: https://twitter.com/ismi_abbas -->
 
