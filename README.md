@@ -24,6 +24,6 @@
 
 <!-- ## Leetcode!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ismi-abbas?theme=nord)
- 
-[twitter]: https://twitter.com/ismi_abbas -->
+  -->
+[twitter]: https://twitter.com/ismi_abbas
 
