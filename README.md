@@ -19,7 +19,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ismi-abbas&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/ismi-abbas?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ismi-abbas?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismi-abbas&langs_count=6&layout=donut&theme=tokyonight&hide=css,html,asl,lua,shell,astro)](https://github.com/ismi-abbas?tab=repositories)
 
 
 <!-- ## Leetcode!
