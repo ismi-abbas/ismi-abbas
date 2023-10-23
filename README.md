@@ -32,5 +32,5 @@ You can also find me on here - [website][portfolio]
 -->
 
 [twitter]: https://twitter.com/ismiabbas_
-[portfolio]: [https://www.ismi-abbas.com](https://portfolio-v3-sage-one.vercel.app/)https://portfolio-v3-sage-one.vercel.app/
+[portfolio]: https://portfolio-v3-sage-one.vercel.app/
 
