@@ -2,13 +2,12 @@
 
 You can also find me on here - [website][portfolio]
 
-### I'm a software developer
+### I'm a fullstack developer
 
-- Working mostly on backend stuff, that you wouldn't see the progress here.
-- I know, and work mostly with Javascript + Typescript.
-- I write little bit of C#, Rust, Python and PHP in my leisure time.
+- I know, and work mostly with Javascript + Typescript 💻.
+- Write little bit of mobile apps on React Native ✌️ 
 
-<div align="start">
+<div>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />
@@ -32,5 +31,5 @@ You can also find me on here - [website][portfolio]
 -->
 
 [twitter]: https://twitter.com/ismiabbas_
-[portfolio]: https://portfolio-v3-sage-one.vercel.app/
+[portfolio]: https://ismi-abbas-site.vercel.app/
 
