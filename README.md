@@ -8,6 +8,9 @@ You can also find me on here - [website][portfolio]
 - My go to UI frameworks is NextJs and React also Angular(I love Angular)
 - Write little bit of mobile apps on React Native ✌️
 
+[![autocomplete](https://codeium.com/badges/user/overly-august-mackerel-52273/autocomplete)](https://codeium.com/profile/overly-august-mackerel-52273)
+[![streak](https://codeium.com/badges/v2/user/overly-august-mackerel-52273/streak)](https://codeium.com/profile/overly-august-mackerel-52273)
+
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,css,html,python,cs,php,postgresql,mysql&perline=5)](https://skillicons.dev)
 
